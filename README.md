@@ -7,7 +7,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 See [Contributing](.github/CONTRIBUTING.md).
 
 <!-- BEGIN SOFTWARE LIST -->
-### Media Management
+## Media Management
 - [Tautulli](https://tautulli.com/) -  Tautulli is a third-party application designed to monitor and analyze activity on Plex Media Server. Tautulli tracks and displays statistics about the media being streamed from a Plex server. It keeps a detailed record of user activity, including the number of plays, duration, and type of media consumed. [Source Code](https://github.com/Tautulli/Tautulli) `GPL-3.0 license` `Python`
 
 ## Password Managers
@@ -20,11 +20,11 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
 - [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
 
-### Terminals
+## Terminals
 - [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! [Source Code](https://github.com/starship/starship) `ISC license` `Rust`
 - [Warp](https://www.warp.dev/) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. [Source Code](https://github.com/warpdotdev/Warp) `Closed Source`
 
-### Wikis
+## Wikis
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
 
 
