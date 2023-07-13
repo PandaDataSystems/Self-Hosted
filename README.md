@@ -11,6 +11,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. [Source Code](https://github.com/home-assistant/core) `Apache-2.0 license` `Python`
 - [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 - [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
+- [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
   
 ## Note-Taking | Editors
 - [HedgeDoc](https://demo.hedgedoc.org/) - Ideas grow better together [Source Code](https://github.com/hedgedoc/hedgedoc) `AGPL-3.0 license` `TypeScript`
