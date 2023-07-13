@@ -26,6 +26,9 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
 - [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
 
+## Personal Dashboards
+- [Homer](https://homer-demo.netlify.app/) - A very simple static homepage for your server [Source Code](https://github.com/bastienwirtz/homer) `Apache-2.0 license` `JavaScript`
+
 ## Smart Home
 - [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. [Source Code](https://github.com/home-assistant/core) `Apache-2.0 license` `Python`
 
