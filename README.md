@@ -7,6 +7,9 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 See [Contributing](.github/CONTRIBUTING.md).
 
 <!-- BEGIN SOFTWARE LIST -->
+## Note-Taking | Editors
+[HedgeDoc](https://demo.hedgedoc.org/) - Ideas grow better together [Source Code](https://github.com/hedgedoc/hedgedoc) `AGPL-3.0 license` `TypeScript`
+
 ## Media Management
 - [Tautulli](https://tautulli.com/) -  Tautulli is a third-party application designed to monitor and analyze activity on Plex Media Server. Tautulli tracks and displays statistics about the media being streamed from a Plex server. It keeps a detailed record of user activity, including the number of plays, duration, and type of media consumed. [Source Code](https://github.com/Tautulli/Tautulli) `GPL-3.0 license` `Python`
 - [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://demo.ombi.io/), [Source Code](https://github.com/tidusjar/Ombi)) `GPL-2.0` `C#`
