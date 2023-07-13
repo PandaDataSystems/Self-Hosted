@@ -7,6 +7,11 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 See [Contributing](.github/CONTRIBUTING.md).
 
 <!-- BEGIN SOFTWARE LIST -->
+## Internet Of Things (IoT)
+- [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. [Source Code](https://github.com/home-assistant/core) `Apache-2.0 license` `Python`
+- [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+- [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
+  
 ## Note-Taking | Editors
 - [HedgeDoc](https://demo.hedgedoc.org/) - Ideas grow better together [Source Code](https://github.com/hedgedoc/hedgedoc) `AGPL-3.0 license` `TypeScript`
 - [DocPHT](https://docpht.org/) - With DocPHT you can take notes and quickly document anything and without the use of any database. ([Demo](https://demo.docpht.org/), [Source Code](https://github.com/kenlog/docpht)) `MIT` `PHP`
@@ -30,9 +35,6 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Homer](https://homer-demo.netlify.app/) - A very simple static homepage for your server [Source Code](https://github.com/bastienwirtz/homer) `Apache-2.0 license` `JavaScript`
 - [Organizr](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
 - [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
-
-## Smart Home
-- [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. [Source Code](https://github.com/home-assistant/core) `Apache-2.0 license` `Python`
 
 ## Terminals
 - [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! [Source Code](https://github.com/starship/starship) `ISC license` `Rust`
