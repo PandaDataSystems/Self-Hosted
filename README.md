@@ -28,6 +28,8 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Personal Dashboards
 - [Homer](https://homer-demo.netlify.app/) - A very simple static homepage for your server [Source Code](https://github.com/bastienwirtz/homer) `Apache-2.0 license` `JavaScript`
+- [Organizr](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
+- [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
 ## Smart Home
 - [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. [Source Code](https://github.com/home-assistant/core) `Apache-2.0 license` `Python`
