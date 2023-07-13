@@ -9,6 +9,8 @@ See [Contributing](.github/CONTRIBUTING.md).
 <!-- BEGIN SOFTWARE LIST -->
 ## Note-Taking | Editors
 - [HedgeDoc](https://demo.hedgedoc.org/) - Ideas grow better together [Source Code](https://github.com/hedgedoc/hedgedoc) `AGPL-3.0 license` `TypeScript`
+- [DocPHT](https://docpht.org/) - With DocPHT you can take notes and quickly document anything and without the use of any database. ([Demo](https://demo.docpht.org/), [Source Code](https://github.com/kenlog/docpht)) `MIT` `PHP`
+- [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
 
 ## Media Management
 - [Tautulli](https://tautulli.com/) -  Tautulli is a third-party application designed to monitor and analyze activity on Plex Media Server. Tautulli tracks and displays statistics about the media being streamed from a Plex server. It keeps a detailed record of user activity, including the number of plays, duration, and type of media consumed. [Source Code](https://github.com/Tautulli/Tautulli) `GPL-3.0 license` `Python`
