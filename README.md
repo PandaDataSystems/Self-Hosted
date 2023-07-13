@@ -29,6 +29,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Plex](https://www.plex.tv/) - Plex is a media playback system that makes it simple to enjoy your movies, TV shows, music, pictures, and internet-based content. 
 - [Emby](https://emby.media/) - Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices.
 - [Jellyfin](https://jellyfin.org/) - Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media. It is an alternative to the proprietary Emby and Plex.
+- [Dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces. [Source Code](https://github.com/Dusk-Labs/dim) `AGPL-3.0 license` `Rust`
 
 ## Wikis
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
