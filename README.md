@@ -25,6 +25,11 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! [Source Code](https://github.com/starship/starship) `ISC license` `Rust`
 - [Warp](https://www.warp.dev/) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. [Source Code](https://github.com/warpdotdev/Warp) `Closed Source`
 
+## Video Streaming
+- [Plex](https://www.plex.tv/) - Plex is a media playback system that makes it simple to enjoy your movies, TV shows, music, pictures, and internet-based content. 
+- [Emby](https://emby.media/) - Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices.
+- [Jellyfin](https://jellyfin.org/) - Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media. It is an alternative to the proprietary Emby and Plex.
+
 ## Wikis
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
 
