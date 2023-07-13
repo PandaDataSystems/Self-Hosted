@@ -12,6 +12,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ### Terminals
 - [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! [Source Code](https://github.com/starship/starship) `ISC license` `Rust`
+- [Warp](https://www.warp.dev/) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. [Source Code](https://github.com/warpdotdev/Warp)
 
 ### Wikis
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
