@@ -7,11 +7,14 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 See [Contributing](.github/CONTRIBUTING.md).
 
 <!-- BEGIN SOFTWARE LIST -->
-## Internet Of Things (IoT)
+## Internet Of Things (IoT) + Automation
 - [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. [Source Code](https://github.com/home-assistant/core) `Apache-2.0 license` `Python`
 - [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 - [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
 - [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
+- [Gladys](https://gladysproject.com) - Gladys is an open-source home assistant which runs on your Raspberry Pi. ([Source Code](https://github.com/GladysProject/Gladys)) `MIT` `Nodejs`
+- [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+
   
 ## Note-Taking | Editors
 - [HedgeDoc](https://demo.hedgedoc.org/) - Ideas grow better together [Source Code](https://github.com/hedgedoc/hedgedoc) `AGPL-3.0 license` `TypeScript`
@@ -36,6 +39,10 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Homer](https://homer-demo.netlify.app/) - A very simple static homepage for your server [Source Code](https://github.com/bastienwirtz/homer) `Apache-2.0 license` `JavaScript`
 - [Organizr](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
 - [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
+
+## Productivity | Utility
+- [Ansible Semaphore](https://www.ansible-semaphore.com/) - Open Source & Modern UI for Ansible [Source Code](https://github.com/ansible-semaphore/semaphore) `MIT license` `Go`
+- [Uptime Kuma](https://uptime.kuma.pet/) - A self-hosted monitoring tool [Source Code](https://github.com/louislam/uptime-kuma) `MIT License` `JavaScript`
 
 ## Terminals
 - [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! [Source Code](https://github.com/starship/starship) `ISC license` `Rust`
