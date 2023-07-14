@@ -26,6 +26,10 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Tautulli](https://tautulli.com/) -  Tautulli is a third-party application designed to monitor and analyze activity on Plex Media Server. Tautulli tracks and displays statistics about the media being streamed from a Plex server. It keeps a detailed record of user activity, including the number of plays, duration, and type of media consumed. [Source Code](https://github.com/Tautulli/Tautulli) `GPL-3.0 license` `Python`
 - [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://demo.ombi.io/), [Source Code](https://github.com/tidusjar/Ombi)) `GPL-2.0` `C#`
 
+## Network
+- [Traefik](https://traefik.io/) - is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy. [Source Code](https://github.com/traefik/traefik-library-image)
+- [Nginx Proxy Manager](https://nginxproxymanager.com/) - Docker container for managing Nginx proxy hosts with a simple, powerful interface [Source Code](https://github.com/NginxProxyManager/nginx-proxy-manager)
+
 ## Password Managers
 
 - [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code](https://github.com/bitwarden/core)) `AGPL-3.0` `C#`
