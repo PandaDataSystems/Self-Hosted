@@ -44,6 +44,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 ## Productivity | Utility
 - [Ansible Semaphore](https://www.ansible-semaphore.com/) - Open Source & Modern UI for Ansible [Source Code](https://github.com/ansible-semaphore/semaphore) `MIT license` `Go`
 - [Uptime Kuma](https://uptime.kuma.pet/) - A self-hosted monitoring tool [Source Code](https://github.com/louislam/uptime-kuma) `MIT License` `JavaScript`
+- [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more. [Source Code](https://github.com/raycast)
 
 ## Terminals
 - [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! [Source Code](https://github.com/starship/starship) `ISC license` `Rust`
