@@ -17,6 +17,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
   
 ## Note-Taking | Editors
+- [Obsidian](https://obsidian.md/) - Obsidian is the private and flexible note‑taking app that adapts to the way you think. [Source Code](https://github.com/obsidianmd) 
 - [HedgeDoc](https://demo.hedgedoc.org/) - Ideas grow better together [Source Code](https://github.com/hedgedoc/hedgedoc) `AGPL-3.0 license` `TypeScript`
 - [DocPHT](https://docpht.org/) - With DocPHT you can take notes and quickly document anything and without the use of any database. ([Demo](https://demo.docpht.org/), [Source Code](https://github.com/kenlog/docpht)) `MIT` `PHP`
 - [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
