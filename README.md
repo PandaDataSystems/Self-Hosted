@@ -62,5 +62,6 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Wikis
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
+- [Outline](https://www.getoutline.com/) - An intuitive editor with markdown support, slash commands, rich embeds, and more [Source Code](https://github.com/outline)
 
 
